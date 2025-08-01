@@ -16,4 +16,6 @@ Initialized empty Git repository in /muhsi/skills/Projects/markdown/.git
 ``` javascript
 var myVar = "Hello, World";
 ```
-
+- [x] list syntax is required
+- [x] This item is complete
+- [ ] This item is not complete 
